@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently enrolled in Data Engineering Bootcamp from [Nashville Software School](https://nashvillesoftwareschool.com/).
 - 🌱 I’m currently learning Data Engineering skills, Deep Learning with pytorch and Stock Market Analytics.
+- 🎉 I graduated with an MS in Data Science from UT Austin in May 2025.
+- 🎉 I graduated Data Science Cohort 07 [Nashville Software School](https://nashvillesoftwareschool.com/) in April 2024.
 - 💬 Ask me about python, machine learning, experimental physics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prahlad-siwakoti/)
 - 😄 Pronouns: he/him
