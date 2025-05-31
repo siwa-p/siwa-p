@@ -8,10 +8,9 @@ I am an aspiring data scientist/engineer.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently enrolled in Data Engineering Bootcamp from Nashville Software School.
-- 🌱 I’m currently learning data engineering, deep learning with pytorch, stock market analytics
-- 👯 I’m looking to collaborate on projects in fintech.
-- 💬 Ask me about python programming, machine learning, experimental physics
+- 🔭 I’m currently enrolled in Data Engineering Bootcamp from [Nashville Software School](https://nashvillesoftwareschool.com/).
+- 🌱 I’m currently learning Data Engineering skills, Deep Learning with pytorch and Stock Market Analytics.
+- 💬 Ask me about python, machine learning, experimental physics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prahlad-siwakoti/)
 - 😄 Pronouns: he/him
   
