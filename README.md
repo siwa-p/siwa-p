@@ -7,7 +7,7 @@ I am an aspiring data scientist/engineer.
 
 Here are some ideas to get you started:
 -->
-
+- 🔭 I teach Machine Learning and Data Analytics in [Elizabethtown College](https://www.etown.edu/)
 - 🔭 I graduated Data Engineering Bootcamp from [Nashville Software School](https://nashvillesoftwareschool.com/) in September 2025.
 - 🎉 I graduated with an MS in Data Science from UT Austin in May 2025.
 - 🎉 I graduated Data Science Cohort 07 [Nashville Software School](https://nashvillesoftwareschool.com/) in April 2024.
